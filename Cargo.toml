@@ -1,0 +1,8 @@
+[package]
+authors = ["peoro <peoro.noob@gmail.com>"]
+edition = "2018"
+name = "evdev-log-tap"
+version = "0.1.0"
+
+[dependencies]
+evdev = "0.10.1"
